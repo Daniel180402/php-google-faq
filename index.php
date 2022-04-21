@@ -62,8 +62,19 @@
     <title>Google - FAQ</title>
 </head>
 <body>
-    <header class="fixed-top">
-
+    <header class="fixed-top border-bottom border-secondary pt-2 ps-2">
+        <div class="wrapper-logo">
+            <img src="img/google.png" alt="google-logo">
+        </div>
+        <div class="wrapper-nav w-50 h-100">
+            <nav class="d-flex list-unstyled justify-content-between align-items-end h-50 ps-2 pb-2">
+                <li>Introduzione</li>
+                <li>Norme sulla privacy</li>
+                <li>Termini di servizio</li>
+                <li>Tecnologie</li>
+                <li>Domande frequenti</li>
+            </nav>
+        </div>
     </header>
     <main>
         <div class="container">
